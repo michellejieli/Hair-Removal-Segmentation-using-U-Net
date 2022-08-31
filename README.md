@@ -32,4 +32,4 @@ The dataset used for this project was a subset of the publicly available [2018 I
 Michelle Li - michelle.li851@duke.edu or michelleli1999@berkeley.edu
 
 ### Contributors
-Michelle Li, Roger Chang, Yuncheng Duan, and Charlotte Roh
+Michelle Li
