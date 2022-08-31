@@ -26,7 +26,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Data
 
-The dataset used for this project was a subset of the publicly available [2018 International Skin Imaging Collaboration data](https://challenge.isic-archive.com/data/#2018), which consists of 2596 dermoscopic images and 2594 corresponding lesion border segmentation ground truth masks. Hair segmentation masks were obtained from [Wei et al.](https://doi.org/10.1016/j.patcog.2021.107994), which contains 288 masks. 
+The dataset used for this project is a subset of the publicly available [2018 International Skin Imaging Collaboration data](https://challenge.isic-archive.com/data/#2018), which consists of 2596 dermoscopic images and 2594 corresponding lesion border segmentation ground truth masks. Hair segmentation masks were obtained from [Wei et al.](https://doi.org/10.1016/j.patcog.2021.107994), which contains 288 masks. 
 
 ### Contact
 Michelle Li - michelle.li851@duke.edu or michelleli1999@berkeley.edu
